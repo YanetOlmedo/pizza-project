@@ -4,4 +4,3 @@ ingredietes para piza
 3-ingredientes de cubirta(pollo,carne,chorizo,champiñones)
 4-queso
 5-tomate
-6-git
